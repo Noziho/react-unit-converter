@@ -21,3 +21,16 @@
 label {
     display: block;
 }
+
+input {
+    padding: 0.5rem;
+    border: none;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+select {
+    border: none;
+    padding: 0.5rem;
+    width: 80%;
+}
