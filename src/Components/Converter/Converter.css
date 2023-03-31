@@ -1,0 +1,23 @@
+.converterContainer {
+    width: 80%;
+    min-height: 20rem;
+    max-height: 20rem;
+    margin-top: 10rem;
+    background: #F1F1F1;
+    padding: 2rem;
+}
+
+.inputContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inputContainer > div {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+}

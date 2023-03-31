@@ -1,8 +1,11 @@
 import './App.css';
+import {Converter} from "../Converter/Converter";
 
 function App() {
   return (
-    <h1>React app works</h1>
+      <div className={'container'}>
+        <Converter></Converter>
+      </div>
   );
 }
 
