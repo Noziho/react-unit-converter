@@ -34,3 +34,10 @@ select {
     padding: 0.5rem;
     width: 80%;
 }
+
+button {
+    border: none;
+    background: #e9e9ed;
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+}
